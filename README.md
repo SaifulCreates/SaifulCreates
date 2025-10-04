@@ -4,6 +4,8 @@
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Python, Java, R Programming, LaTeX, HTML, PHP
+![Python](https://img.shields.io/badge/Python-000?logo=python)
+![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
 
 - 🔭 I’m currently working on this page. 
 
