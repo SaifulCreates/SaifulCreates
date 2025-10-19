@@ -32,8 +32,6 @@ Skills: Python, Java, R Programming, LaTeX, HTML, PHP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaifulCreates&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/SaifulCreates/contributions?format=svg&private=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/SaifulCreates)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SaifulCreates)  
