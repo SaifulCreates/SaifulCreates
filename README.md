@@ -2,9 +2,46 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Python, Java, R Programming, LaTeX, HTML, PHP
-![Python](https://img.shields.io/badge/Python-000?logo=python)
-![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
+Skills:
+src="https://img.shields.io/badge/Python-111?style=flat&logo=python&logoColor=FFD343&labelColor=202020"/>
+    </a>
+    <a href="https://openjdk.org/" target="_blank">
+      <img alt="Java" height="22"
+           src="https://img.shields.io/badge/Java-111?style=flat&logo=openjdk&logoColor=F89820&labelColor=202020"/>
+    </a>
+    <a href="https://numpy.org/" target="_blank">
+      <img alt="NumPy" height="22"
+           src="https://img.shields.io/badge/NumPy-111?style=flat&logo=numpy&logoColor=4DABCF&labelColor=202020"/>
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank">
+      <img alt="Pandas" height="22"
+           src="https://img.shields.io/badge/Pandas-111?style=flat&logo=pandas&logoColor=8A63F6&labelColor=202020"/>
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank">
+      <img alt="scikit-learn" height="22"
+           src="https://img.shields.io/badge/scikit--learn-111?style=flat&logo=scikitlearn&logoColor=F89939&labelColor=202020"/>
+    </a>
+    <a href="https://www.tensorflow.org/" target="_blank">
+      <img alt="TensorFlow" height="22"
+           src="https://img.shields.io/badge/TensorFlow-111?style=flat&logo=tensorflow&logoColor=FF6F00&labelColor=202020"/>
+    </a>
+    <a href="https://pytorch.org/" target="_blank">
+      <img alt="PyTorch" height="22"
+           src="https://img.shields.io/badge/PyTorch-111?style=flat&logo=pytorch&logoColor=EE4C2C&labelColor=202020"/>
+    </a>
+    <a href="https://jupyter.org/" target="_blank">
+      <img alt="Jupyter" height="22"
+           src="https://img.shields.io/badge/Jupyter-111?style=flat&logo=jupyter&logoColor=F37626&labelColor=202020"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img alt="Git" height="22"
+           src="https://img.shields.io/badge/Git-111?style=flat&logo=git&logoColor=F05032&labelColor=202020"/>
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img alt="VS Code" height="22"
+           src="https://img.shields.io/badge/VS%20Code-111?style=flat&logo=visualstudiocode&logoColor=4FA7FF&labelColor=202020"/>
+    </a>
+  </span>
 
 - 🔭 I’m currently working on this page. 
 
