@@ -41,3 +41,9 @@ Skills: Python, Java, R Programming, LaTeX, HTML, PHP
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SaifulCreates)  
 
+<!-- Contribution Graph -->
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SaifulCreates&bg_color=0d1117&color=f92672&line=bf5fff&point=444444&area=true&area_color=ff79c6&hide_border=true"
+    alt="Saiful's Contribution Graph" />
+</p>
