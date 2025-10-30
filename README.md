@@ -65,9 +65,7 @@ Skills:
   </a>
 </p>
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaifulCreates&show_icons=true&count_private=true) -->
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaifulCreates&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaifulCreates&show_icons=true&count_private=true&include_all_commits=true)
 
 ### My Research Papers & Publications
 
